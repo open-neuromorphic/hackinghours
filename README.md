@@ -9,7 +9,7 @@
 The ecosystem around neuromorphics is rapidly growing, and we have a unique window of opportunity to build accessible, fast, and reliable software for neuromorphic technologies.
 Help us by resolving issues below and join our community coding sessions where we improve the neuromorphic software ecosystem, one issue at the time 🚀
 
-We'll meet **every Monday from 16-18 CET** on the [Open Neuromorphic Discord server](https://discord.gg/aPFsSRA7Nf) and we record our events on the [YouTube channel @HackingHours](https://www.youtube.com/@hackinghours)
+We'll meet **every Monday from 16-18 CET/CEST** on the [Open Neuromorphic Discord server](https://discord.gg/aPFsSRA7Nf) and we record our events on the [YouTube channel @HackingHours](https://www.youtube.com/@hackinghours)
 
 The goal is to meet up, hack on projects, close issues, and have fun!
 
@@ -55,6 +55,12 @@ If you want to add your own project, simply add three lines:
 No open issues that need help
  <!-- neuromorphs/nirtorch -->
 
+### [NIRViz](https://github.com/open-neuromorphic/nirviz) - NIR visualization for Python and CLI
+[![GitHub Repo stars](https://img.shields.io/github/stars/open-neuromorphic/nirviz)](https://github.com/open-neuromorphic/nirviz) [![PyPI - Downloads](https://img.shields.io/pypi/dm/nirviz)](https://pypi.org/project/nirviz)
+<!-- open-neuromorphic/nirviz --> 
+No open issues that need help
+<!-- open-neuromorphic/nirviz -->
+ 
 ### [Norse](https://github.com/norse/norse) - A functional spiking neural network simulator for deep learning
 [![GitHub Repo stars](https://img.shields.io/github/stars/norse/norse)](https://github.com/norse/norse) [![PyPI - Downloads](https://img.shields.io/pypi/dm/norse)](https://pypi.org/projecs/norse)
 <!-- norse/norse -->
@@ -64,21 +70,11 @@ No open issues that need help
 * [Require an example that using STDP to train the SNN](https://github.com/norse/norse/issues/366)
 <!-- norse/norse -->
 
-
 ### [snnTorch](https://github.com/jeshraghian/snnTorch) - Deep and online learning with spiking neural networks in Python
 [![GitHub Repo stars](https://img.shields.io/github/stars/jeshraghian/snntorch)](https://github.com/jeshraghian/snntorch) [![PyPI - Downloads](https://img.shields.io/pypi/dm/snntorch)](https://pypi.org/project/snntorch)
 <!-- jeshraghian/snntorch --> 
 No open issues that need help
  <!-- jeshraghian/snntorch -->
-
-### [Spyx](https://github.com/kmheckel/spyx) - SNNs in JAX
-[![GitHub Repo stars](https://img.shields.io/github/stars/kmheckel/spyx)](https://github.com/kmheckel/spyx) [![PyPI - Downloads](https://img.shields.io/pypi/dm/spyx)](https://pypi.org/project/spyx)
-<!-- kmheckel/spyx -->
-* [Add shape checking to Accuracy and Loss functions](https://github.com/kmheckel/spyx/issues/25)
-* [Support for latency-based spike coding](https://github.com/kmheckel/spyx/issues/21)
-* [Add Spiking-RWKV layer to support SpikeGPT architectures](https://github.com/kmheckel/spyx/issues/9)
-* [Write test cases for CI/CD](https://github.com/kmheckel/spyx/issues/6)
-<!-- kmheckel/spyx -->
 
 ## How to contribute
 Join the chat, update this README file with your project, or just reach out on our Discord.
