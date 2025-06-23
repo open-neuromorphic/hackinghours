@@ -46,7 +46,6 @@ If you want to add your own project, simply add three lines:
 [![GitHub Repo stars](https://img.shields.io/github/stars/neuromorphs/nir)](https://github.com/neuromorphs/nir) [![PyPI - Downloads](https://img.shields.io/pypi/dm/nir)](https://pypi.org/project/nir)
 <!-- neuromorphs/nir -->
 * [Notebook docs run with wrong dependencies](https://github.com/neuromorphs/NIR/issues/106)
-* [Upload example code in the documentation `docs/source/examples`](https://github.com/neuromorphs/NIR/issues/26)
 <!-- neuromorphs/nir -->
 
 ### [NIRTorch](https://github.com/neuromorphs/nirtorch) - PyTorch-NIR integration library
