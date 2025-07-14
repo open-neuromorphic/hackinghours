@@ -17,9 +17,9 @@ The goal is to meet up, hack on projects, close issues, and have fun!
 The entire point is to move things forward, get stuff done, and provide real value! The below issues and pull requests were all closed during the hacking hours:
 
 * [Faery](https://github.com/aestream/faery/): [#10](https://github.com/aestream/faery/pull/10), [#15](https://github.com/aestream/faery/pull/15), [#16](https://github.com/aestream/faery/pull/16) [#22](https://github.com/aestream/faery/pull/22)
-* [NIR](https://github.com/neuromorphs/nir/): [#76](https://github.com/neuromorphs/nir/pull/76), [#104](https://github.com/neuromorphs/nir/pull/104) [#122](https://github.com/neuromorphs/NIR/pull/122) [#124](https://github.com/neuromorphs/NIR/pull/124) [#128](https://github.com/neuromorphs/NIR/pull/128)
-* [NIRTorch](https://github.com/neuromorphs/nirtorch/): [#28](https://github.com/neuromorphs/nirtorch/pull/28) [#33](https://github.com/neuromorphs/nirtorch/pull/33) [#34](https://github.com/neuromorphs/NIRTorch/pull/34)
-* [Norse](https://github.com/norse/norse): [#409](https://github.com/norse/norse/pull/409)
+* [NIR](https://github.com/neuromorphs/nir/): [#76](https://github.com/neuromorphs/nir/pull/76), [#104](https://github.com/neuromorphs/nir/pull/104) [#122](https://github.com/neuromorphs/NIR/pull/122) [#124](https://github.com/neuromorphs/NIR/pull/124) [#128](https://github.com/neuromorphs/NIR/pull/128) [#130](https://github.com/neuromorphs/NIR/pull/130) [#143](https://github.com/neuromorphs/NIR/pull/143) [#153](https://github.com/neuromorphs/NIR/pull/153) [#156](https://github.com/neuromorphs/NIR/pull/156)
+* [NIRTorch](https://github.com/neuromorphs/nirtorch/): [#28](https://github.com/neuromorphs/nirtorch/pull/28) [#33](https://github.com/neuromorphs/nirtorch/pull/33) [#34](https://github.com/neuromorphs/NIRTorch/pull/34) [#36](https://github.com/neuromorphs/NIRTorch/pull/36) [#34](https://github.com/neuromorphs/NIRTorch/pull/34) [#39](https://github.com/neuromorphs/NIRTorch/pull/39) [#40](https://github.com/neuromorphs/NIRTorch/pull/40) [#41](https://github.com/neuromorphs/NIRTorch/pull/41)
+* [Norse](https://github.com/norse/norse): [#409](https://github.com/norse/norse/pull/409) [#422](https://github.com/norse/norse/pull/422)
 * [Open-Neuromorphic.github.io](https://github.com/open-neuromorphic/open-neuromorphic.github.io): [#169](https://github.com/open-neuromorphic/open-neuromorphic.github.io/pull/169)
 
 ## Projects with open issues that needs help
