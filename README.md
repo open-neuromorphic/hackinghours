@@ -45,6 +45,8 @@ If you want to add your own project, simply add three lines:
 ### [Neuromorphic Intermediate Representation (NIR)](https://github.com/neuromorphs/nir) - A neuromorphic continuous-time instruction set
 [![GitHub Repo stars](https://img.shields.io/github/stars/neuromorphs/nir)](https://github.com/neuromorphs/nir) [![PyPI - Downloads](https://img.shields.io/pypi/dm/nir)](https://pypi.org/project/nir)
 <!-- neuromorphs/nir -->
+* [Add an (opset) version to Python objects](https://github.com/neuromorphs/NIR/issues/136)
+* [Issues in NIR Documentation](https://github.com/neuromorphs/NIR/issues/117)
 * [Notebook docs run with wrong dependencies](https://github.com/neuromorphs/NIR/issues/106)
 <!-- neuromorphs/nir -->
 
