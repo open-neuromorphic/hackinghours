@@ -36,14 +36,17 @@ If you want to add your own project, simply add three lines:
 
 ### [Faery](https://github.com/aestream/faery) - Event streaming multitool with an efficient Rust core
 [![GitHub Repo stars](https://img.shields.io/github/stars/aestream/faery)](https://github.com/aestream/faery) [![PyPI - Downloads](https://img.shields.io/pypi/dm/faery)](https://pypi.org/project/faery)
-<!-- aestream/faery --> 
-No open issues that need help
+<!-- aestream/faery -->
+* [Add documentation](https://github.com/aestream/faery/issues/4)
+* [Add UDP I/O](https://github.com/aestream/faery/issues/3)
+* [Add GPU frames via DLPack](https://github.com/aestream/faery/issues/2)
 <!-- aestream/faery -->
 
 ### [Neuromorphic Intermediate Representation (NIR)](https://github.com/neuromorphs/nir) - A neuromorphic continuous-time instruction set
 [![GitHub Repo stars](https://img.shields.io/github/stars/neuromorphs/nir)](https://github.com/neuromorphs/nir) [![PyPI - Downloads](https://img.shields.io/pypi/dm/nir)](https://pypi.org/project/nir)
-<!-- neuromorphs/nir --> 
-No open issues that need help
+<!-- neuromorphs/nir -->
+* [Add an (opset) version to Python objects](https://github.com/neuromorphs/NIR/issues/136)
+* [Notebook docs run with wrong dependencies](https://github.com/neuromorphs/NIR/issues/106)
 <!-- neuromorphs/nir -->
 
 ### [NIRTorch](https://github.com/neuromorphs/nirtorch) - PyTorch-NIR integration library
