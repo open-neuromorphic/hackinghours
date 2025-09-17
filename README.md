@@ -63,11 +63,8 @@ No open issues that need help
  
 ### [Norse](https://github.com/norse/norse) - A functional spiking neural network simulator for deep learning
 [![GitHub Repo stars](https://img.shields.io/github/stars/norse/norse)](https://github.com/norse/norse) [![PyPI - Downloads](https://img.shields.io/pypi/dm/norse)](https://pypi.org/projecs/norse)
-<!-- norse/norse -->
-* [Speech commands loading broken](https://github.com/norse/norse/issues/383)
-* [Improve docs](https://github.com/norse/norse/issues/374)
-* [ipywidgets package missing when executing notebook for documentation](https://github.com/norse/norse/issues/373)
-* [Require an example that using STDP to train the SNN](https://github.com/norse/norse/issues/366)
+<!-- norse/norse --> 
+No open issues that need help
 <!-- norse/norse -->
 
 ### [snnTorch](https://github.com/jeshraghian/snnTorch) - Deep and online learning with spiking neural networks in Python
