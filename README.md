@@ -17,7 +17,7 @@ Chances are you will benefit from our work, so why not pay it forward? Drop by o
 
 ## 🚀 Completed pull requests and issues 🚀
 
-> [!INFO]
+> [!NOTE]
 > [**Watch our videos here on open-neuromorphic.org**](https://open-neuromorphic.org/neuromorphic-computing/software/hacking-hours/).
 
 Hacking hours exist is to provide *practical* value. That means closing pull requests, resolving issues, and fixing bugs. Keep track of our progress below and make sure to [watch all the videos here](https://open-neuromorphic.org/neuromorphic-computing/software/hacking-hours/).
